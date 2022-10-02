@@ -15,7 +15,9 @@ export default defineConfig({
         configFile: './src/vuetify.config.scss'
       }
     }),
-    Pages(),
+    Pages({
+      importMode: 'sync'
+    }),
   ],
   build: {
     target: [
