@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mdi/js": "7.0.96",
+    "@mdi/js": "7.4.47",
     "@vueuse/core": "9.3.0",
     "vite-plugin-inspect": "0.7.4",
     "vue": "3.2.40",
